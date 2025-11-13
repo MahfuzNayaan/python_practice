@@ -15,4 +15,4 @@ for x in range(1,3):
 
 print(text_list)
 
-time.sleep(20)
+time.sleep(30)
